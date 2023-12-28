@@ -14,7 +14,7 @@ Dit project betreft een opdracht voor de hogeschool Luca, waarbij ik de taak heb
 - [Animeer Tekst Stack Overflow](https://stackoverflow.com/questions/48349767/how-to-fade-in-text-elements-one-by-one)
 
 ### Contactformulier
-- [Contactformulier CodePen](https://codepen.io/bobbykorec/pen/](https://codepen.io/bobbykorec/pen/qOGbyr)
+- [Contactformulier CodePen](https://codepen.io/bobbykorec/pen/](https://codepen.io/bobbykorec/pen/qOGbyr ) 
 
 ### Gallerij
 - [Gallerij CodePen](https://codepen.io/eevu/pen/eZPmre)
